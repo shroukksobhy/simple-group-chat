@@ -9,5 +9,7 @@
 
 ## About The Project 
 
-Group chat enables users to send and receive message along with all the users <\n>
+Group chat enables users to send and receive message along with all the users.
+
+
 using: laravel livewire and polling
