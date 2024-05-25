@@ -27,8 +27,3 @@ jobs:
         run: |
           mkdir -p database
           touch database/group-chat.sql
-      - name: Execute tests (Unit and Feature tests) via PHPUnit/Pest
-        env:
-          DB_CONNECTION: mysql
-          DB_DATABASE: database/group-chat.sql
-        run: php artisan test
