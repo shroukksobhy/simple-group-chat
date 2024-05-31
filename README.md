@@ -47,3 +47,6 @@ using: laravel livewire and polling
 9-Go to http://localhost:8000/ and ENJOY 🎉
 
 
+## Author
+
+- **Shrouk Sobhy**: Software Developer
